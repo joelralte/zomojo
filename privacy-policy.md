@@ -9,11 +9,7 @@ This Privacy Policy applies only to our online activities and is valid for visit
 By using our website or app, you hereby consent to our Privacy Policy and agree to its terms.
 
 ### Information we collect
-The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
-
-If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
-
-When you register for an Account, we may ask for your contact information, including items such as name, email address, and telephone number.
+Zomojo does not collect any information from users. If any activities regarding information from users found, please inform us immediately. 
 
 ### Data safety section
 Policy Declaration for Play Safety Label: Location Data Type - Precise Location (we do not collect location from users under any circumstances.)
